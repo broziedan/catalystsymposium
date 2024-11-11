@@ -236,7 +236,7 @@ h6 {
 }
 
 .header .logo img {
-  max-height: 36px;
+  max-height: 80px;
   margin-right: 8px;
 }
 
@@ -872,7 +872,7 @@ section,
   width: 100%;
   min-height: 100vh;
   position: relative;
-  padding: 100px 0 0 0;
+  padding: 200px 0 0 0;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -956,14 +956,18 @@ section,
 }
 
 .hero .about-info h3 {
-  font-size: 18px;
+  font-size: 24px;
   font-weight: bold;
-  text-transform: uppercase;
   margin-bottom: 10px;
   color: #fff;
 }
 
 .hero .about-info p {
+  font-size: 14px;
+  margin-bottom: 20px;
+  color: #fff;
+}
+.hero .about-info ol li {
   font-size: 14px;
   margin-bottom: 20px;
   color: #fff;
@@ -983,11 +987,10 @@ section,
 }
 
 .speakers .member .member-info {
-  position: absolute;
   padding: 15px 0;
-  inset: auto 0 -44px 0;
-  background: rgba(0, 0, 0, 0.6);
+  background: rgb(248, 34, 73);
   transition: 0.4s;
+  margin-top: 5px;
 }
 
 .speakers .member .member-info-content h4 {
@@ -1343,14 +1346,12 @@ section,
 
 .sponsors .client-logo img {
   padding: 50px;
-  max-width: 80%;
   transition: 0.3s;
 }
 
 @media (max-width: 640px) {
   .sponsors .client-logo img {
     padding: 30px;
-    max-width: 50%;
   }
 }
 
