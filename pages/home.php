@@ -9,7 +9,7 @@
           <h2 data-aos="fade-up" data-aos-delay="100" class=""><small style="font-size: 80%;">Welcome to</small> <br><span>THE CATALYST</span> SYMPOSIUM</h2>
         <p data-aos="fade-up" data-aos-delay="200" class="text-start">... a gathering of the Dynamic Leaders</p>
         <div data-aos="fade-up" data-aos-delay="300" class="">
-            <a href="https://forms.gle/9yFM3c25A1P5ah7k7" class="btn-get-started" target="_blank">Click to Register</a>
+            <!--<a href="https://forms.gle/9yFM3c25A1P5ah7k7" class="btn-get-started" target="_blank">Click to Register</a>-->
         </div>
         
         <br><br>
