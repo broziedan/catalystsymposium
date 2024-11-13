@@ -5,12 +5,14 @@
 
       <img src="assets/img/catalystsymposium-bg.jpg" alt="" data-aos="fade-in" class="">
 
-      <div class="container d-flex flex-column align-items-center text-center mt-auto">
-        <h2 data-aos="fade-up" data-aos-delay="100" class="">Welcome to <br><span>THE CATALYST</span> SYMPOSIUM</h2>
-        <p data-aos="fade-up" data-aos-delay="200">... a gathering of the dynamic Leaders</p>
+      <div class="container d-flex flex-column align-items-center text-center mt-auto ">
+          <h2 data-aos="fade-up" data-aos-delay="100" class=""><small style="font-size: 80%;">Welcome to</small> <br><span>THE CATALYST</span> SYMPOSIUM</h2>
+        <p data-aos="fade-up" data-aos-delay="200" class="text-start">... a gathering of the Dynamic Leaders</p>
         <div data-aos="fade-up" data-aos-delay="300" class="">
-          <a href="https://youtu.be/iM8ccOeMVOw" class="glightbox pulsating-play-btn mt-3"></a>
+            <a href="https://forms.gle/9yFM3c25A1P5ah7k7" class="btn-get-started" target="_blank">Click to Register</a>
         </div>
+        
+        <br><br>
       </div>
 
       <div class="about-info mt-auto position-relative" >
@@ -58,7 +60,7 @@
 
         <div class="row gy-4 justify-content-md-start justify-content-center">
 
-          <div class="col-md-4 col-10" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-md-4 col-11" data-aos="fade-up" data-aos-delay="100">
             <div class="card h-100">
               <div class="card-img">
                 <img src="<?php echo $dot?>assets/img/catalystsymposium-objective-1.jpg" alt="" class="img-fluid">
@@ -71,7 +73,7 @@
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-md-4 col-10" data-aos="fade-up" data-aos-delay="200">
+          <div class="col-md-4 col-11" data-aos="fade-up" data-aos-delay="200">
             <div class="card h-100">
               <div class="card-img">
                 <img src="<?php echo $dot?>assets/img/catalystsymposium-objective-2.jpg" alt="" class="img-fluid">
@@ -84,7 +86,7 @@
             </div>
           </div><!-- End Card Item -->
 
-          <div class=" col-md-4 col-10" data-aos="fade-up" data-aos-delay="300">
+          <div class=" col-md-4 col-11" data-aos="fade-up" data-aos-delay="300">
             <div class="card h-100">
               <div class="card-img">
                 <img src="<?php echo $dot?>assets/img/catalystsymposium-objective-3.jpg" alt="" class="img-fluid">
@@ -97,7 +99,7 @@
             </div>
           </div><!-- End Card Item -->
           
-          <div class="col-md-4 col-10" data-aos="fade-up" data-aos-delay="200">
+          <div class="col-md-4 col-11" data-aos="fade-up" data-aos-delay="200">
             <div class="card h-100">
               <div class="card-img">
                 <img src="<?php echo $dot?>assets/img/catalystsymposium-objective-4.jpg" alt="" class="img-fluid">
@@ -110,7 +112,7 @@
             </div>
           </div><!-- End Card Item -->
 
-          <div class=" col-md-4 col-10" data-aos="fade-up" data-aos-delay="300">
+          <div class=" col-md-4 col-11" data-aos="fade-up" data-aos-delay="300">
             <div class="card h-100">
               <div class="card-img">
                 <img src="<?php echo $dot?>assets/img/catalystsymposium-objective-5.jpg" alt="" class="img-fluid">
@@ -140,22 +142,22 @@
 
       <div class="container">
 
-        <div class="row gy-4">
+        <div class="row gy-4 justify-content-md-start justify-content-center">
 
-          <div class="col-md-4 col-6" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-md-4 col-11" data-aos="fade-up" data-aos-delay="100">
             <div class="member">
               <img src="<?php echo $dot?>assets/img/speakers/catalystsymposium-speaker-1.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4><a href="#">Walter White</a></h4>
-                  <span>Quas alias incidunt</span>
+                  <h4><a href="#">Arogundade Dolapo M.</a></h4>
+                  <span>Convener</span>
                 </div>
                 
               </div>
             </div>
           </div><!-- End Team Member -->
 
-          <div class="col-md-4 col-6" data-aos="fade-up" data-aos-delay="200">
+          <div class="col-md-4 col-11" data-aos="fade-up" data-aos-delay="200">
             <div class="member">
               <img src="<?php echo $dot?>assets/img/speakers/catalystsymposium-speaker-2.jpg" class="img-fluid" alt="">
               <div class="member-info">
@@ -168,7 +170,7 @@
             </div>
           </div><!-- End Team Member -->
 
-          <div class="col-md-4 col-6" data-aos="fade-up" data-aos-delay="300">
+          <!--<div class="col-md-4 col-11" data-aos="fade-up" data-aos-delay="300">
             <div class="member">
               <img src="assets/img/speakers/speaker-3.jpg" class="img-fluid" alt="">
               <div class="member-info">
@@ -181,7 +183,7 @@
             </div>
           </div><!-- End Team Member -->
 
-          <div class="col-md-4 col-6" data-aos="fade-up" data-aos-delay="400">
+          <!--<div class="col-md-4 col-11" data-aos="fade-up" data-aos-delay="400">
             <div class="member">
               <img src="assets/img/speakers/speaker-4.jpg" class="img-fluid" alt="">
               <div class="member-info">
@@ -214,35 +216,35 @@
       <div class="container">
         <div class="tab-content row justify-content-center" data-aos="fade-up" data-aos-delay="200">
           <!-- Schdule Day 1 -->
-          <div role="tabpanel" class="col-lg-9 tab-pane fade show active" id="day-1">
+          <div role="tabpanel" class="col-md-9 col-11 tab-pane fade show active" id="day-1">
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>1.</time></div>
-              <div class="col-md-10">
+              <div class="col-md-2 col-1"><time>1.</time></div>
+              <div class="col-md-10 col-11">
                 <h4>Keynote Speakers</h4>
                 <p>Renowned leaders and experts share their insights, experiences, and visions for the future of leadership.</p>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>2</time></div>
-              <div class="col-md-10">
+              <div class="col-md-2 col-1"><time>2.</time></div>
+              <div class="col-md-10 col-11">
                 <h4>Interactive Workshops</h4>
                 <p>Hands-on sessions that allow participants to develop practical skills and techniques applicable to their leadership roles.</p>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>3</time></div>
-              <div class="col-md-10">
+              <div class="col-md-2 col-1"><time>3.</time></div>
+              <div class="col-md-10 col-11">
                 <h4>Panel Discussions:</h4>
                 <p> Engaging discussions among experts that provide diverse perspectives on pressing leadership challenges and opportunities.</p>
               </div>
             </div>
 
             <div class="row schedule-item">
-                <div class="col-md-2"><time>4</time></div>
-              <div class="col-md-10">
+                <div class="col-md-2 col-1"><time>4.</time></div>
+              <div class="col-md-10 col-11">
                 <h4>Networking Opportunities: </h4>
                 <p>Structured and informal settings that encourage attendees to connect, collaborate,
                     and share experiences with peers and industry leaders.
@@ -251,8 +253,8 @@
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>5</time></div>
-              <div class="col-md-10">
+              <div class="col-md-2 col-1"><time>5.</time></div>
+              <div class="col-md-10 col-11">
                 <h4>Leadership Development Sessions: </h4>
                 <p>Focused sessions that address specific leadership competencies, such as emotional intelligence, strategic 
                     thinking, and conflict resolution.
@@ -261,16 +263,16 @@
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>6</time></div>
-              <div class="col-md-10">
+              <div class="col-md-2 col-1"><time>6.</time></div>
+              <div class="col-md-10 col-11">
                 <h4>Real-World Case Studies:</h4>
                 <p>Examination of successful leadership practices and strategies from various organizations to inspire and guide participants.</p>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>7</time></div>
-              <div class="col-md-10">
+              <div class="col-md-2 col-1"><time>7.</time></div>
+              <div class="col-md-10 col-11">
                 <h4>Actionable Takeaways: </h4>
                 <p>Practical insights and strategies that attendees can implement immediately in their personal and
                     professional lives.</p>
@@ -278,8 +280,8 @@
             </div>
               
             <div class="row schedule-item">
-              <div class="col-md-2"><time>8</time></div>
-              <div class="col-md-10">
+              <div class="col-md-2 col-1"><time>8.</time></div>
+              <div class="col-md-10 col-11">
                 <h4>Future Trends Exploration: </h4>
                 <p>Discussions on emerging trends that are shaping the future of leadership, 
                     including technology, diversity, and globalization.</p>
@@ -287,8 +289,8 @@
             </div>
               
             <div class="row schedule-item">
-              <div class="col-md-2"><time>9</time></div>
-              <div class="col-md-10">
+              <div class="col-md-2 col-1"><time>9.</time></div>
+              <div class="col-md-10 col-11">
                 <h4>Feedback and Reflection: </h4>
                 <p>Opportunities for participants to reflect on their learning experiences and receive
                     feedback from peers and facilitators.</p>
@@ -358,84 +360,6 @@
       </div>
 
     </section><!-- /Sponsors Section -->
-
-    <!-- Faq Section -->
-    <section id="faq" class="faq section">
-
-      <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Frequently Asked Questions</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-      </div><!-- End Section Title -->
-
-      <div class="container">
-
-        <div class="row justify-content-center">
-
-          <div class="col-lg-10" data-aos="fade-up" data-aos-delay="100">
-
-            <div class="faq-container">
-
-              <div class="faq-item faq-active">
-                <h3>Non consectetur a erat nam at lectus urna duis?</h3>
-                <div class="faq-content">
-                  <p>Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.</p>
-                </div>
-                <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
-
-              <div class="faq-item">
-                <h3>Feugiat scelerisque varius morbi enim nunc faucibus?</h3>
-                <div class="faq-content">
-                  <p>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.</p>
-                </div>
-                <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
-
-              <div class="faq-item">
-                <h3>Dolor sit amet consectetur adipiscing elit pellentesque?</h3>
-                <div class="faq-content">
-                  <p>Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis</p>
-                </div>
-                <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
-
-              <div class="faq-item">
-                <h3>Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?</h3>
-                <div class="faq-content">
-                  <p>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.</p>
-                </div>
-                <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
-
-              <div class="faq-item">
-                <h3>Tempus quam pellentesque nec nam aliquam sem et tortor?</h3>
-                <div class="faq-content">
-                  <p>Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in</p>
-                </div>
-                <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
-
-              <div class="faq-item">
-                <h3>Perspiciatis quod quo quos nulla quo illum ullam?</h3>
-                <div class="faq-content">
-                  <p>Enim ea facilis quaerat voluptas quidem et dolorem. Quis et consequatur non sed in suscipit sequi. Distinctio ipsam dolore et.</p>
-                </div>
-                <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
-
-            </div>
-
-          </div><!-- End Faq Column-->
-
-        </div>
-
-      </div>
-
-    </section><!-- /Faq Section -->
-
-    
-
     <!-- Contact Section -->
     <section id="contact" class="contact section">
 

@@ -38,7 +38,7 @@
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
 
-      <a class="cta-btn d-none d-sm-block" href="#register">Register</a>
+        <a class="cta-btn d-none d-sm-block" href="https://forms.gle/9yFM3c25A1P5ah7k7" target="_blank">Register</a>
 
     </div>
   </header>

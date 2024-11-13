@@ -7,7 +7,7 @@
     <title>The Catalyst Symposium</title>
     <meta property="og:title" content="The Catalyst Symposium" />
     <meta property="og:description" content="The catalyst symposium for dynamic leaders" />
-    <meta property="og:image" content="https://catalystsymposium.com.ng/assets/img/logo.png" />
+    <meta property="og:image" content="https://catalystsymposium.com.ng/assets/img/catalystsymposium-graph.jpg" />
 
   <!-- Favicons -->
   <link href="<?php echo $dot?>assets/img/favicon.png" rel="icon">
